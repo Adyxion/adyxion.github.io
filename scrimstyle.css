@@ -1,0 +1,34 @@
+body {
+    background: url(http://i.imgur.com/PNpOGbI.png) no-repeat fixed;
+    background-size: cover;
+    font-family: Lato;
+    
+  }
+  
+  table {
+    color: white;
+  }
+  
+  img {
+  vertical-align:-160%;
+}
+  
+  h1 {
+    font-size:70px;
+    font-weight:700;
+  }
+  
+  h3 {
+    font-weight:700;
+  }
+  
+  tr {
+    size: 15;
+  }
+  th {
+    size: 18;
+  }
+  
+  td {
+    font-weight: 650;
+  }

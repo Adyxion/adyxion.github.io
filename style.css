@@ -1,0 +1,49 @@
+h1 {
+  font-weight: 700;
+  color: white;
+}
+  
+#titre {
+  font-size: 45px;
+  font-weight: 700;
+  color: #debbc4;
+}
+
+
+#dat {
+  height:185px;
+}
+
+
+footer {
+  color: white;
+}
+
+  a {
+    border-radius: 6px 6px 0px 0px;
+}
+
+  body {
+    background: url(http://i.imgur.com/uv4Emtw.png) no-repeat fixed;
+    background-size: cover;
+    font-family: Lato;
+    
+  }
+  
+.thumbnail {
+  height: 430px;
+  width: 200px;
+}
+
+.pseudo {
+  font-family: Lobster;
+}
+  
+.mega-octicon {
+  font: 102px/1 octicons;
+}
+
+small {
+  font-family:Lato;
+}
+
