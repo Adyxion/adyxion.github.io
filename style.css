@@ -24,8 +24,8 @@ footer {
 }
 
   body {
-    background: url(http://i.imgur.com/KCa8KHY.png) no-repeat fixed;
-    background-size: cover;
+    background: url(http://i.imgur.com/KCa8KHY.png) repeat fixed;
+    
     font-family: Lato;
     
   }
